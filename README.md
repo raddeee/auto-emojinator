@@ -1,4 +1,4 @@
-# emoji-sticker-enator
+# Auto Emojinator
 A simple program that can auto-detect faces and cover them with emoji stickers accordingly to their facial expressions.
 
 Prerequiests:  
