@@ -1,5 +1,5 @@
 # Auto Emojinator
-A simple program that can auto-detect faces and cover them with emoji stickers accordingly to their facial expressions.
+A simple program that can auto-detect faces and cover them with emoji stickers accordingly to their facial expressions and angles.
 
 Prerequiests:  
 	FER-2013's trained model from https://www.kaggle.com/anantgupt/facial-emotion-recogination-91-accuracy-train-set/data (has to be placed in /datamodels)  
